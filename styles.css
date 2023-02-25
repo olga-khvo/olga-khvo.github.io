@@ -1,0 +1,27 @@
+body {
+background-image: url("pinkBG.jpg"); 
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+h1 {
+    margin-left: 25%;
+    margin-right: 25%;
+    color: antiquewhite;
+    font-family: fantasy;
+}
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: antiquewhite;
+}
+#pic {
+ border-radius: 100%;
+ max-width: 100%;
+ height: auto;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
